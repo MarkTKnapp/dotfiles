@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "*.jsx": "javascriptreact"
+    },
+
+    "[html]": {
+        "editor.tabSize": 2
+    },
+    "[scss]": {
+        "editor.tabSize": 2
+    },
+    "[javascriptreact]": {
+        "editor.tabSize": 2
+    },
+
+    "workbench.colorTheme": "Horizon",
+
+    "workbench.colorCustomizations": {
+        "activityBar.inactiveForeground": "#999",
+        "activityBar.foreground": "#e95378"
+    },
+    "explorer.confirmDragAndDrop": false,
+}
